@@ -1,22 +1,31 @@
-# Hi there! 👋 I'm Melvin Cjos
 
-## About Me
-👀 I'm a passionate Python developer with a love for problem-solving and building impactful applications. My journey in programming has been exciting, and I'm always eager to learn and explore new technologies.
+### Hi there, I am Melvin chacko jose 👋
+[![Linkedin Badge](https://img.shields.io/badge/-MelvinCjose-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/melvinchackojose)](https://www.linkedin.com/in/melvinchackojose/)
+[![Gmail Badge](https://img.shields.io/badge/-melvinjose025@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rmelvinjose025@gmail.com)](melvinjose025@gmail.com) 
 
-## Interests
-🌱 I'm particularly interested in web development, data analysis, and machine learning. I enjoy leveraging Python's versatility to create dynamic web applications and extract insights from data.
+- 🎯 Portfolio website: [Portfolio](https://melvin.github.io/)
+- ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
 
-## Current Focus
-I'm currently diving deep into web development frameworks like Django and Flask, as well as expanding my knowledge in data analysis libraries such as NumPy and pandas. I'm also exploring the fascinating world of machine learning algorithms and their applications.
+💻 **Things I love**
+- Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+- Backend Development ✍️
+- Machine Learning 🧐
+- Data Science 😬
 
-## Collaboration Opportunities
-I'm actively seeking opportunities to collaborate on innovative Python projects. Whether it's working on web applications, data analysis tasks, or open-source initiatives, I'm excited to contribute my skills and learn from other talented developers.
+    
+🛠**Tech Stack**
 
-## How to Reach Me
-📫 You can connect with me via email at melvinjose025@gmail.com or reach out to me on [LinkedIn](https://www.linkedin.com/in/melvinchackojose). I'd be happy to discuss potential collaborations or answer any questions you may have.
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=Django)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)
 
-<!---
-MelvinCjos/MelvinCjos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap)
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
 
+
+<div align="center">
+    <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+</div>
