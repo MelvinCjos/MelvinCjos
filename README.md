@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-MelvinCjose-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/melvinchackojose)](https://www.linkedin.com/in/melvinchackojose/)
 [![Gmail Badge](https://img.shields.io/badge/-melvinjose025@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rmelvinjose025@gmail.com)](melvinjose025@gmail.com) 
 
-- 🎯 Portfolio website: [Portfolio](https://melvin.github.io/)
+- 🎯 Portfolio website: [Portfolio]( https://github.com/MelvinCjos/portfolio.io/)
 - ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
 
 💻 **Things I love**
